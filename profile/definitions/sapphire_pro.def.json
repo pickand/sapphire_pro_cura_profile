@@ -8,7 +8,7 @@
         "manufacturer": "Two Trees",
         "file_formats": "text/x-gcode",
         "machine_extruder_trains": {
-            "0": "sapphire_pro_extruder_0" "1": "sapphire_pro_extruder_1"
+            "0": "sapphire_pro_extruder_0"
         },
         "supports_usb_connection": true,
         "has_machine_materials": true,
