@@ -42,7 +42,7 @@
         },
         "machine_end_gcode":
         {
-            "default_value": "M104 S0\nM140 S0\nG91\nG1 E-1 F300\nG1 Z+0.5 E-5 X-20 Y-20 F9000.00\nG28 X0 Y0\nG1 Z20\nM84\nG90"
+            "default_value": "M104 S0\nM140 S0\nG91\nG1 E-1 F300\nG1 Z+0.5 E-5 X-20 Y-20 F9000.00\nG28 X0 Y0\nG1 Z20 F2000\nM84\nG90"
         }
 
     }
